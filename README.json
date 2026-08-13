@@ -1,0 +1,1921 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenWhisk",
+          "description": "Serverless, open source cloud platform that executes functions in response to events at any scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T21:16:27Z",
+            "owner": "apache",
+            "repo": "openwhisk",
+            "stars": 6792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1Backend",
+          "description": "AI-native microservices platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-27T20:41:54Z",
+            "owner": "1backend",
+            "repo": "1backend",
+            "stars": 2340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triton",
+          "description": "Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-18T13:20:21Z",
+            "owner": "TritonDataCenter",
+            "repo": "triton",
+            "stars": 1371
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Erlang/OTP",
+          "description": "Programming language used to build massively scalable soft real-time systems with requirements on high availability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T14:16:18Z",
+            "owner": "erlang",
+            "repo": "otp",
+            "stars": 12323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spin",
+          "description": "An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T20:41:36Z",
+            "owner": "spinframework",
+            "repo": "spin",
+            "stars": 6496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Light-4j",
+          "description": "A high throughput, low latency, small memory footprint and more productive microservices platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:34:46Z",
+            "owner": "networknt",
+            "repo": "light-4j",
+            "stars": 3671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wangle",
+          "description": "A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:53:42Z",
+            "owner": "facebook",
+            "repo": "wangle",
+            "stars": 3095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ice",
+          "description": "Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:42:46Z",
+            "owner": "zeroc-ice",
+            "repo": "ice",
+            "stars": 2188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScaleCube",
+          "description": "Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-08T05:32:27Z",
+            "owner": "scalecube",
+            "repo": "scalecube-services",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pears",
+          "description": "Peer-to-peer runtime, development and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:07:06Z",
+            "owner": "holepunchto",
+            "repo": "pear",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vert.X Toolbox",
+          "description": "A set of Vert.x components to build reactive microservice applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T07:14:36Z",
+            "owner": "vert-x3",
+            "repo": "vertx-service-discovery",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Frameworks / Runtimes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Service Toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uWebSockets",
+          "description": "Simple, secure & standards compliant web server for the most demanding of applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T02:23:34Z",
+            "owner": "uNetworking",
+            "repo": "uWebSockets",
+            "stars": 18950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sogou Workflow",
+          "description": "Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T10:20:51Z",
+            "owner": "sogou",
+            "repo": "workflow",
+            "stars": 14410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pistache",
+          "description": "A high-performance REST toolkit written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-11T00:17:42Z",
+            "owner": "pistacheio",
+            "repo": "pistache",
+            "stars": 3472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Micro Services",
+          "description": "An OSGi-like C++ dynamic module system and service registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:51:17Z",
+            "owner": "CppMicroServices",
+            "repo": "CppMicroServices",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enduro/X",
+          "description": "XATMI based service framework for GNU/Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-15T18:56:41Z",
+            "owner": "endurox-dev",
+            "repo": "endurox",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Erlang VM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cowboy",
+          "description": "Small, fast, modular HTTP server written in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:45:39Z",
+            "owner": "ninenines",
+            "repo": "cowboy",
+            "stars": 7524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mochiweb",
+          "description": "Erlang library for building lightweight HTTP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-10T23:56:52Z",
+            "owner": "mochi",
+            "repo": "mochiweb",
+            "stars": 1890
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gin",
+          "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T22:34:04Z",
+            "owner": "gin-gonic",
+            "repo": "gin",
+            "stars": 89108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fiber",
+          "description": "Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:21:44Z",
+            "owner": "gofiber",
+            "repo": "fiber",
+            "stars": 40062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-zero",
+          "description": "A web and rpc distributed system development framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:41:19Z",
+            "owner": "zeromicro",
+            "repo": "go-zero",
+            "stars": 33262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iris",
+          "description": "Fast, simple and efficient micro web framework for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T09:34:12Z",
+            "owner": "kataras",
+            "repo": "iris",
+            "stars": 25564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-micro",
+          "description": "A distributed systems development framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:29:13Z",
+            "owner": "micro",
+            "repo": "go-micro",
+            "stars": 23009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chi",
+          "description": "Lightweight, idiomatic and composable router for building Go HTTP services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T09:13:56Z",
+            "owner": "go-chi",
+            "repo": "chi",
+            "stars": 22664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoFr",
+          "description": "An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:14:18Z",
+            "owner": "gofr-dev",
+            "repo": "gofr",
+            "stars": 21028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPCX",
+          "description": "A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T13:19:21Z",
+            "owner": "smallnest",
+            "repo": "rpcx",
+            "stars": 8311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lura",
+          "description": "Framework to build ultra performance API Gateways with middlewares.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T16:06:25Z",
+            "owner": "luraproject",
+            "repo": "lura",
+            "stars": 6786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goa",
+          "description": "Design-based HTTP microservices in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:51:33Z",
+            "owner": "goadesign",
+            "repo": "goa",
+            "stars": 6089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Chassis",
+          "description": "A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-02T15:19:12Z",
+            "owner": "go-chassis",
+            "repo": "go-chassis",
+            "stars": 2727
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yesod",
+          "description": "The Haskell RESTful web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-07-29T15:57:04Z",
+            "owner": "yesodweb",
+            "repo": "yesod",
+            "stars": 2720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Servant",
+          "description": "Type-level web DSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-10T14:46:20Z",
+            "owner": "haskell-servant",
+            "repo": "servant",
+            "stars": 1968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scotty",
+          "description": "Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-06-26T10:50:49Z",
+            "owner": "scotty-web",
+            "repo": "scotty",
+            "stars": 1775
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Java VM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Compojure",
+          "description": "A concise routing library for Ring/Clojure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-09-15T14:44:43Z",
+            "owner": "weavejester",
+            "repo": "compojure",
+            "stars": 4111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System",
+          "description": "Built on top of Stuart Sierra's component library, offers a set of readymade components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-08-16T04:58:41Z",
+            "owner": "danielsz",
+            "repo": "system",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tesla",
+          "description": "Common basis for some of Otto.de's Clojure microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-08-13T13:18:53Z",
+            "owner": "otto-de",
+            "repo": "tesla-microservice",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "Clojure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dubbo",
+          "description": "A high-performance, java based RPC framework open-sourced by Alibaba.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T16:24:31Z",
+            "owner": "apache",
+            "repo": "dubbo",
+            "stars": 41553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disruptor",
+          "description": "High-performance inter-thread messaging library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-02T13:03:33Z",
+            "owner": "LMAX-Exchange",
+            "repo": "disruptor",
+            "stars": 18434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropwizard",
+          "description": "Java framework for developing ops-friendly, high-performance, RESTful web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:49:24Z",
+            "owner": "dropwizard",
+            "repo": "dropwizard",
+            "stars": 8579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActiveJ",
+          "description": "Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-09T15:56:16Z",
+            "owner": "activej",
+            "repo": "activej",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jersey",
+          "description": "RESTful services in Java. JAX-RS reference implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-25T22:44:15Z",
+            "owner": "eclipse-ee4j",
+            "repo": "jersey",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airlift",
+          "description": "Framework for building REST services in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T12:12:29Z",
+            "owner": "airlift",
+            "repo": "airlift",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conjure",
+          "description": "Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:22:12Z",
+            "owner": "palantir",
+            "repo": "conjure-java-runtime",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serverless",
+          "description": "Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:28:21Z",
+            "owner": "serverless",
+            "repo": "serverless",
+            "stars": 46920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tRPC",
+          "description": "End-to-end typesafe APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:08:32Z",
+            "owner": "trpc",
+            "repo": "trpc",
+            "stars": 40516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seneca",
+          "description": "A microservices toolkit for Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-07T12:08:51Z",
+            "owner": "senecajs",
+            "repo": "seneca",
+            "stars": 3959
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyperf",
+          "description": "Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T14:12:16Z",
+            "owner": "hyperf",
+            "repo": "hyperf",
+            "stars": 6883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swoft",
+          "description": "PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-28T12:57:06Z",
+            "owner": "swoft-cloud",
+            "repo": "swoft",
+            "stars": 5538
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sanic",
+          "description": "Sanic is a Flask-like Python 3.5+ web server that's written to go fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T03:09:51Z",
+            "owner": "sanic-org",
+            "repo": "sanic",
+            "stars": 18645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aiohttp",
+          "description": "HTTP client/server for asyncio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:19:33Z",
+            "owner": "aio-libs",
+            "repo": "aiohttp",
+            "stars": 16521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web.py",
+          "description": "Minimalist web framework for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T18:30:13Z",
+            "owner": "webpy",
+            "repo": "webpy",
+            "stars": 5921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nameko",
+          "description": "Python framework for building microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T22:12:22Z",
+            "owner": "nameko",
+            "repo": "nameko",
+            "stars": 4754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Connexion",
+          "description": "Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:05:24Z",
+            "owner": "spec-first",
+            "repo": "connexion",
+            "stars": 4608
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grape",
+          "description": "An opinionated framework for creating REST-like APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T03:43:35Z",
+            "owner": "ruby-grape",
+            "repo": "grape",
+            "stars": 9996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Praxis",
+          "description": "Framework for both designing and implementing APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T21:21:15Z",
+            "owner": "praxis",
+            "repo": "praxis",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scorched",
+          "description": "Light-weight web framework for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-31T02:03:24Z",
+            "owner": "Wardrop",
+            "repo": "Scorched",
+            "stars": 275
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tower",
+          "description": "Library of modular and reusable components for building robust networking clients and servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-22T13:58:59Z",
+            "owner": "tower-rs",
+            "repo": "tower",
+            "stars": 4274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tarpc",
+          "description": "RPC framework for Rust with a focus on ease of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:43:00Z",
+            "owner": "google",
+            "repo": "tarpc",
+            "stars": 3728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wtx",
+          "description": "HTTP/2 client/server framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:58:11Z",
+            "owner": "c410-f3r",
+            "repo": "wtx",
+            "stars": 394
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Capabilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kong",
+          "description": "Open source management layer for APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-04T09:27:18Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 43970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envoy",
+          "description": "Open source edge and service proxy, from the developers at Lyft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:13:51Z",
+            "owner": "envoyproxy",
+            "repo": "envoy",
+            "stars": 28771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pingora",
+          "description": "A library for building fast, reliable and evolvable network services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T21:09:04Z",
+            "owner": "cloudflare",
+            "repo": "pingora",
+            "stars": 27192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zuul",
+          "description": "An edge service that provides dynamic routing, monitoring, resiliency, security, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T21:05:20Z",
+            "owner": "Netflix",
+            "repo": "zuul",
+            "stars": 14061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bunker Web",
+          "description": "Web app hosting and reverse proxy secure by default.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:03:37Z",
+            "owner": "bunkerity",
+            "repo": "bunkerweb",
+            "stars": 10803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAProxy",
+          "description": "Reliable, high Performance TCP/HTTP load balancer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:26:43Z",
+            "owner": "haproxy",
+            "repo": "haproxy",
+            "stars": 6774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skipper",
+          "description": "HTTP router useful for decoupling routing from service logic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:32:19Z",
+            "owner": "zalando",
+            "repo": "skipper",
+            "stars": 3314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulcand",
+          "description": "Programmatic load balancer backed by Etcd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-27T08:36:18Z",
+            "owner": "vulcand",
+            "repo": "vulcand",
+            "stars": 3092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traffic Server",
+          "description": "High-performance building block for cloud services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:55:32Z",
+            "owner": "apache",
+            "repo": "trafficserver",
+            "stars": 1973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APIcast",
+          "description": "APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-20T01:50:17Z",
+            "owner": "3scale",
+            "repo": "APIcast",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neutrino",
+          "description": "Extensible software load balancer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2018-02-09T00:28:38Z",
+            "owner": "eBay",
+            "repo": "Neutrino",
+            "stars": 316
+          }
+        }
+      ],
+      "title": "API Gateways / Edge Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Etcd",
+          "description": "Highly-available key-value store for shared configuration and service discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T08:43:53Z",
+            "owner": "etcd-io",
+            "repo": "etcd",
+            "stars": 52118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nacos",
+          "description": "Easy-to-use dynamic service discovery, configuration and service management platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T08:29:54Z",
+            "owner": "alibaba",
+            "repo": "nacos",
+            "stars": 33262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eureka",
+          "description": "REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T20:31:39Z",
+            "owner": "Netflix",
+            "repo": "eureka",
+            "stars": 12731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyDNS",
+          "description": "Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-03-21T11:57:30Z",
+            "owner": "skynetservices",
+            "repo": "skydns",
+            "stars": 2201
+          }
+        }
+      ],
+      "title": "Configuration & Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kestra",
+          "description": "Open source microservices event-driven, language-agnostic orchestration and scheduling platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:01:26Z",
+            "owner": "kestra-io",
+            "repo": "kestra",
+            "stars": 27788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporal",
+          "description": "Open source microservices orchestration platform for running mission critical code at any scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:55:01Z",
+            "owner": "temporalio",
+            "repo": "temporal",
+            "stars": 22266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conductor",
+          "description": "A microservices orchestration engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-12-22T23:40:04Z",
+            "owner": "Netflix",
+            "repo": "conductor",
+            "stars": 12755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inngest",
+          "description": "Durable functions for reliable background logic, from background jobs to complex workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:36:13Z",
+            "owner": "inngest",
+            "repo": "inngest",
+            "stars": 5717
+          }
+        }
+      ],
+      "title": "Workflow Orchestration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Valkey",
+          "description": "A new project to resume development on the formerly open-source Redis project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:46:29Z",
+            "owner": "valkey-io",
+            "repo": "valkey",
+            "stars": 26873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redisson",
+          "description": "Distributed and scalable Java data structures on top of Redis server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:46:51Z",
+            "owner": "redisson",
+            "repo": "redisson",
+            "stars": 24374
+          }
+        }
+      ],
+      "title": "Elasticity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Celery",
+          "description": "Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:55:09Z",
+            "owner": "celery",
+            "repo": "celery",
+            "stars": 28785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faktory",
+          "description": "Language-agnostic persistent background job server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:10:56Z",
+            "owner": "contribsys",
+            "repo": "faktory",
+            "stars": 6137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Schedulix",
+          "description": "Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-05T10:17:04Z",
+            "owner": "schedulix",
+            "repo": "schedulix",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Job Schedulers / Workload Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RocketMQ",
+          "description": "A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:06:23Z",
+            "owner": "apache",
+            "repo": "rocketmq",
+            "stars": 22559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bull",
+          "description": "Fast and reliable Redis-based queue for Node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T22:57:44Z",
+            "owner": "OptimalBits",
+            "repo": "bull",
+            "stars": 16248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redpanda",
+          "description": "Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:33:01Z",
+            "owner": "redpanda-data",
+            "repo": "redpanda",
+            "stars": 12437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aeron",
+          "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:08:28Z",
+            "owner": "aeron-io",
+            "repo": "aeron",
+            "stars": 8783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crossbar",
+          "description": "Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:17:19Z",
+            "owner": "crossbario",
+            "repo": "crossbar",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malamute",
+          "description": "ZeroMQ enterprise messaging broker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-25T00:12:47Z",
+            "owner": "zeromq",
+            "repo": "malamute",
+            "stars": 334
+          }
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Resilience4j",
+          "description": "Fault tolerance library designed for Java8 and functional programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-08T06:46:06Z",
+            "owner": "resilience4j",
+            "repo": "resilience4j",
+            "stars": 10739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Chaos Engineering",
+          "description": "star: - A curated list of awesome chaos engineering resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-28T19:30:06Z",
+            "owner": "dastergon",
+            "repo": "awesome-chaos-engineering",
+            "stars": 6630
+          }
+        }
+      ],
+      "title": "Resilience"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keycloak",
+          "description": "Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:39:20Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dex",
+          "description": "Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T04:03:20Z",
+            "owner": "dexidp",
+            "repo": "dex",
+            "stars": 11034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Agent Memory Guard",
+          "description": "Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML policies, microsecond latency, zero external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:49:58Z",
+            "owner": "OWASP",
+            "repo": "www-project-agent-memory-guard",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fastjson",
+          "description": "Fast JSON Processor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-07-29T08:04:40Z",
+            "owner": "alibaba",
+            "repo": "fastjson",
+            "stars": 25609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jackson",
+          "description": "A multi-purpose Java library for processing JSON data format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-17T03:05:02Z",
+            "owner": "FasterXML",
+            "repo": "jackson",
+            "stars": 9796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kryo",
+          "description": "Java serialization and cloning: fast, efficient, automatic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T12:40:34Z",
+            "owner": "EsotericSoftware",
+            "repo": "kryo",
+            "stars": 6544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yyjson",
+          "description": "The fastest JSON library in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T17:31:33Z",
+            "owner": "ibireme",
+            "repo": "yyjson",
+            "stars": 3834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ffjson",
+          "description": "Faster JSON serialization for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-21T19:52:42Z",
+            "owner": "pquerna",
+            "repo": "ffjson",
+            "stars": 2993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bond",
+          "description": "Cross-platform framework for working with schematized data, broadly used at Microsoft in high scale services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-04-01T04:37:42Z",
+            "owner": "microsoft",
+            "repo": "bond",
+            "stars": 2622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protostuff",
+          "description": "A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-02T04:29:11Z",
+            "owner": "protostuff",
+            "repo": "protostuff",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FST",
+          "description": "Fast java serialization drop in-replacement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-30T08:15:18Z",
+            "owner": "RuedigerMoeller",
+            "repo": "fast-serialization",
+            "stars": 1595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheshire",
+          "description": "Clojure JSON and JSON SMILE encoding/decoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-25T16:35:25Z",
+            "owner": "dakrone",
+            "repo": "cheshire",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lite³",
+          "description": "JSON-compatible zero-copy serialization format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T21:07:05Z",
+            "owner": "fastserial",
+            "repo": "lite3",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BooPickle",
+          "description": "Binary serialization library for efficient network communication. For Scala and Scala.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-08-11T02:42:30Z",
+            "owner": "suzaku-io",
+            "repo": "boopickle",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jackson Afterburner",
+          "description": "Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-11-02T13:37:30Z",
+            "owner": "FasterXML",
+            "repo": "jackson-module-afterburner",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SBinary",
+          "description": "Library for describing binary formats for Scala types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2015-12-06T21:20:05Z",
+            "owner": "harrah",
+            "repo": "sbinary",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InfluxDB",
+          "description": "Scalable datastore for metrics, events, and real-time analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T18:14:38Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citus",
+          "description": "Distributed PostgreSQL as an extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:00:53Z",
+            "owner": "citusdata",
+            "repo": "citus",
+            "stars": 12685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alluxio",
+          "description": "Virtual distributed storage system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-29T16:46:58Z",
+            "owner": "Alluxio",
+            "repo": "alluxio",
+            "stars": 7224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pilosa",
+          "description": "Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-02-21T23:20:41Z",
+            "owner": "FeatureBaseDB",
+            "repo": "featurebase",
+            "stars": 2523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AtlasDB",
+          "description": "Transactional layer on top of a key value store.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-11-14T02:34:32Z",
+            "owner": "palantir",
+            "repo": "atlasdb",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure Scuttlebutt",
+          "description": "P2P database of message-feeds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-12-13T22:50:14Z",
+            "owner": "ssbc",
+            "repo": "docs",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Goreplay",
+          "description": "A tool for capturing and replaying live HTTP traffic into a test environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-27T15:26:22Z",
+            "owner": "probelabs",
+            "repo": "goreplay",
+            "stars": 19308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCR",
+          "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-23T06:33:13Z",
+            "owner": "vcr",
+            "repo": "vcr",
+            "stars": 6078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoverfly",
+          "description": "Lightweight service virtualization/API simulation tool for developers and testers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T21:18:18Z",
+            "owner": "SpectoLabs",
+            "repo": "hoverfly",
+            "stars": 2509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RestQA",
+          "description": "A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-13T09:55:50Z",
+            "owner": "restqa",
+            "repo": "restqa",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wilma",
+          "description": "Combined HTTP/HTTPS service stub and transparent proxy solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-31T17:32:54Z",
+            "owner": "epam",
+            "repo": "Wilma",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web API Modeling & Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slate",
+          "description": "Beautiful static documentation for your API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-01T05:54:12Z",
+            "owner": "slatedocs",
+            "repo": "slate",
+            "stars": 36048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReDoc",
+          "description": "OpenAPI/Swagger-generated API Documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:09:55Z",
+            "owner": "Redocly",
+            "repo": "redoc",
+            "stars": 25869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scalar",
+          "description": "Open-source API platform: beautiful API references and 1st-class OpenAPI/Swagger support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:22:19Z",
+            "owner": "scalar",
+            "repo": "scalar",
+            "stars": 15898
+          }
+        }
+      ],
+      "title": "REST"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standards / Recommendations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MSGPACK",
+          "description": "MessagePack Specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-10T11:11:44Z",
+            "owner": "msgpack",
+            "repo": "msgpack",
+            "stars": 7492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SBE",
+          "description": "Simple Binary Encoding (SBE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-22T18:04:00Z",
+            "owner": "FIXTradingCommunity",
+            "repo": "fix-simple-binary-encoding",
+            "stars": 317
+          }
+        }
+      ],
+      "title": "Data Formats"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Please, read the Contribution Guidelines before submitting your suggestion.\nFeel free to open an issue or create a pull request with your additions.\n:star2: Thank you!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:40.587Z",
+    "original_repository": "mfornos/awesome-microservices",
+    "original_repository_sha": "8595b7d2cdbcb24a325335369f2d90b9c1b6709f",
+    "enhanced_repository": "enhansome/enhansome-microservices",
+    "enhanced_repository_description": null,
+    "title": "Awesome Microservices with stars"
+  }
+}
