@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache OpenWhisk is an open source serverless cloud platform",
+            "homepage": "https://openwhisk.apache.org/",
             "id": 52039373,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:14:05Z",
+            "open_issues": 430,
             "owner": "apache",
             "repo": "openwhisk",
-            "stars": 6793
+            "stars": 6794,
+            "topics": [
+              "apache",
+              "cloud",
+              "docker",
+              "faas",
+              "functions",
+              "functions-as-a-service",
+              "kubernetes",
+              "openwhisk",
+              "serverless",
+              "serverless-architectures",
+              "serverless-functions"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -26,12 +43,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build AI (or any) apps with scalable microservices & microfrontends.",
+            "homepage": "https://1backend.com",
             "id": 110535597,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-27T20:41:54Z",
+            "open_issues": 1,
             "owner": "1backend",
             "repo": "1backend",
-            "stars": 2342
+            "stars": 2342,
+            "topics": [
+              "ai",
+              "ai-platform",
+              "backend-framework",
+              "microservices",
+              "microservices-platform",
+              "on-premise",
+              "on-premise-ai",
+              "paas",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -42,12 +74,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Triton DataCenter: a cloud management platform with first class support for containers.",
+            "homepage": "https://www.tritondatacenter.com/",
             "id": 23603175,
             "language": "Shell",
+            "license": "MPL-2.0",
             "last_commit": "2025-06-18T13:20:21Z",
+            "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "cloud",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         }
@@ -64,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang/OTP",
+            "homepage": "http://erlang.org",
             "id": 374927,
             "language": "Erlang",
-            "last_commit": "2026-08-27T12:59:13Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:25:17Z",
+            "open_issues": 600,
             "owner": "erlang",
             "repo": "otp",
-            "stars": 12337
+            "stars": 12341,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -80,12 +125,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.",
+            "homepage": "https://spinframework.dev",
             "id": 423679664,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:38:22Z",
+            "open_issues": 262,
             "owner": "spinframework",
             "repo": "spin",
-            "stars": 6505
+            "stars": 6505,
+            "topics": [
+              "serverless",
+              "spin",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -96,12 +150,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, lightweight and more productive microservices framework",
+            "homepage": null,
             "id": 67836637,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T03:38:04Z",
+            "open_issues": 14,
             "owner": "networknt",
             "repo": "light-4j",
-            "stars": 3671
+            "stars": 3672,
+            "topics": [
+              "cloud",
+              "cloud-native",
+              "consul",
+              "docker",
+              "fast",
+              "java",
+              "java11",
+              "java8",
+              "lightweight",
+              "microservice",
+              "microservice-framework",
+              "msa",
+              "openapi",
+              "service-mesh",
+              "swagger",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -112,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",
+            "homepage": null,
             "id": 27889694,
             "language": "C++",
-            "last_commit": "2026-08-27T22:34:01Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:50:52Z",
+            "open_issues": 48,
             "owner": "facebook",
             "repo": "wangle",
-            "stars": 3095
+            "stars": 3095,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -128,12 +209,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one solution for creating networked applications with RPC, pub/sub, server deployment, and more.",
+            "homepage": "https://zeroc.com",
             "id": 31625029,
             "language": "C++",
-            "last_commit": "2026-08-27T16:11:49Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T19:29:05Z",
+            "open_issues": 156,
             "owner": "zeroc-ice",
             "repo": "ice",
-            "stars": 2191
+            "stars": 2191,
+            "topics": [
+              "hacktoberfest",
+              "ice",
+              "rpc",
+              "rpc-framework",
+              "zeroc"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -144,12 +236,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. It features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing",
+            "homepage": "http://scalecube.github.io/",
             "id": 40714460,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T08:15:39Z",
+            "open_issues": 17,
             "owner": "scalecube",
             "repo": "scalecube-services",
-            "stars": 638
+            "stars": 638,
+            "topics": [
+              "actor-model",
+              "aeron",
+              "api-gateway",
+              "backpressure",
+              "cluster",
+              "cluster-membership",
+              "distributed-systems",
+              "gossip-protocol",
+              "ipc",
+              "k8s",
+              "low-latency",
+              "microservices",
+              "multicast-streams",
+              "reactive-microservices",
+              "reactive-streams",
+              "reactor-aeron",
+              "reactor-netty",
+              "service-discovery",
+              "service-mesh",
+              "swim-protocol"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -160,12 +278,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peer-to-Peer (P2P) Install & Deploy CLI",
+            "homepage": "https://docs.pears.com/",
             "id": 752176193,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T04:57:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:05:37Z",
+            "open_issues": 5,
             "owner": "holepunchto",
             "repo": "pear",
-            "stars": 411
+            "stars": 412,
+            "topics": [
+              "desktop",
+              "peer-to-peer",
+              "runtime",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         },
@@ -176,12 +304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some tools one can use for doing microservices with Vert.x",
+            "homepage": null,
             "id": 54370839,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:36Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:55:07.947Z"
         }
@@ -200,12 +333,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miniscule cross-platform eventing, networking & crypto for async applications",
+                "homepage": null,
                 "id": 88219241,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-03T23:53:24Z",
+                "open_issues": 47,
                 "owner": "uNetworking",
                 "repo": "uSockets",
-                "stars": 1491
+                "stars": 1491,
+                "topics": [
+                  "async",
+                  "cross-platform",
+                  "miniscule",
+                  "ssl",
+                  "tcp"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -223,12 +367,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, secure & standards compliant web server for the most demanding of applications",
+                "homepage": null,
                 "id": 54360307,
                 "language": "C++",
-                "last_commit": "2026-08-18T11:11:33Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:34:25Z",
+                "open_issues": 48,
                 "owner": "uNetworking",
                 "repo": "uWebSockets",
-                "stars": 18968
+                "stars": 18967,
+                "topics": [
+                  "commercial",
+                  "cross-platform",
+                  "http",
+                  "proxy-protocol",
+                  "pubsub",
+                  "router",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -239,12 +396,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Parallel Computing and Asynchronous Networking Framework",
+                "homepage": null,
                 "id": 283410102,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T10:20:51Z",
+                "open_issues": 27,
                 "owner": "sogou",
                 "repo": "workflow",
-                "stars": 14419
+                "stars": 14418,
+                "topics": [
+                  "consul",
+                  "dag",
+                  "http",
+                  "kafka",
+                  "mysql",
+                  "redis",
+                  "sogou",
+                  "tasking"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -255,12 +426,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance REST toolkit written in C++",
+                "homepage": "https://pistacheio.github.io/pistache/",
                 "id": 40620758,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-11T00:17:42Z",
+                "open_issues": 223,
                 "owner": "pistacheio",
                 "repo": "pistache",
-                "stars": 3473
+                "stars": 3474,
+                "topics": [
+                  "api-rest",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -271,12 +450,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OSGi-like C++ dynamic module system and service registry",
+                "homepage": "http://cppmicroservices.org",
                 "id": 3569726,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:40:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:47:58Z",
+                "open_issues": 68,
                 "owner": "CppMicroServices",
                 "repo": "CppMicroServices",
-                "stars": 878
+                "stars": 878,
+                "topics": [
+                  "boost",
+                  "c",
+                  "c-plus-plus",
+                  "component-architecture",
+                  "cpp",
+                  "cpp17",
+                  "cross-platform",
+                  "microservice",
+                  "microservices",
+                  "microservices-architecture",
+                  "microservices-framework",
+                  "osgi"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -287,12 +484,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enduro/X Middleware Platform for Distributed Transaction Processing ",
+                "homepage": "https://www.endurox.org",
                 "id": 45568107,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-15T18:56:41Z",
+                "open_issues": 0,
                 "owner": "endurox-dev",
                 "repo": "endurox",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "atmi",
+                  "cluster",
+                  "distributed-transactions",
+                  "enduro",
+                  "ipc",
+                  "linux",
+                  "multiprocessing",
+                  "oracle",
+                  "realtime",
+                  "realtime-message",
+                  "service-orchestration",
+                  "tuxedo"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -310,12 +525,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
+                "homepage": null,
                 "id": 257171786,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-10-31T18:26:36Z",
+                "open_issues": 6,
                 "owner": "mjebrahimi",
                 "repo": "Awesome-Microservices-DotNet",
-                "stars": 3078
+                "stars": 3079,
+                "topics": [
+                  "asp-net",
+                  "asp-net-core",
+                  "aspnet",
+                  "aspnet-core",
+                  "aspnet-mvc",
+                  "aspnetcore",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "distributed",
+                  "distributed-systems",
+                  "dotnet",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "microservice",
+                  "microservice-architecture",
+                  "microservices",
+                  "microservices-architecture"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -335,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compose web applications with functions",
+                    "homepage": "https://hex.pm/packages/plug",
                     "id": 14421569,
                     "language": "Elixir",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T12:31:12Z",
+                    "open_issues": 4,
                     "owner": "elixir-plug",
                     "repo": "plug",
-                    "stars": 3013
+                    "stars": 3013,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 }
@@ -358,12 +602,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+                    "homepage": "https://ninenines.eu",
                     "id": 1460612,
                     "language": "Erlang",
+                    "license": "ISC",
                     "last_commit": "2026-08-25T13:15:05Z",
+                    "open_issues": 64,
                     "owner": "ninenines",
                     "repo": "cowboy",
-                    "stars": 7525
+                    "stars": 7525,
+                    "topics": [
+                      "cowboy",
+                      "erlang",
+                      "functional",
+                      "high-performance",
+                      "http",
+                      "http-server",
+                      "http2",
+                      "http2-server",
+                      "http3",
+                      "http3-server",
+                      "https",
+                      "production-ready",
+                      "rest",
+                      "web",
+                      "web-framework",
+                      "websocket",
+                      "websocket-server",
+                      "websockets",
+                      "webtransport"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -374,12 +643,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+                    "homepage": null,
                     "id": 680799,
                     "language": "Erlang",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-16T16:16:50Z",
+                    "open_issues": 11,
                     "owner": "mochi",
                     "repo": "mochiweb",
-                    "stars": 1890
+                    "stars": 1890,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 }
@@ -402,12 +676,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+                "homepage": "https://gin-gonic.com/",
                 "id": 20904437,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-15T05:44:19Z",
+                "open_issues": 765,
                 "owner": "gin-gonic",
                 "repo": "gin",
-                "stars": 89126
+                "stars": 89129,
+                "topics": [
+                  "framework",
+                  "gin",
+                  "go",
+                  "middleware",
+                  "performance",
+                  "router",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -418,12 +705,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Express inspired web framework written in Go",
+                "homepage": "https://gofiber.io",
                 "id": 234231371,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:46:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T13:04:06Z",
+                "open_issues": 44,
                 "owner": "gofiber",
                 "repo": "fiber",
-                "stars": 40096
+                "stars": 40097,
+                "topics": [
+                  "express",
+                  "expressjs",
+                  "fast",
+                  "fiber",
+                  "flexible",
+                  "framework",
+                  "friendly",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "nodejs",
+                  "performance",
+                  "rest-api",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -434,12 +742,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+                "homepage": "https://go-zero.dev",
                 "id": 285864199,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:52:46Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:46:53Z",
+                "open_issues": 262,
                 "owner": "zeromicro",
                 "repo": "go-zero",
-                "stars": 33280
+                "stars": 33285,
+                "topics": [
+                  "ai-native",
+                  "ai-native-development",
+                  "cloud-native",
+                  "code-generation",
+                  "framework",
+                  "gateway",
+                  "go",
+                  "golang",
+                  "grpc-gateway",
+                  "microservice",
+                  "microservice-framework",
+                  "microservices",
+                  "microservices-architecture",
+                  "rest-api",
+                  "restful",
+                  "restful-api",
+                  "rpc",
+                  "rpc-framework",
+                  "spec-driven-development",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -450,12 +784,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:",
+                "homepage": "https://www.iris-go.com",
                 "id": 50709152,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-27T09:34:12Z",
+                "open_issues": 149,
                 "owner": "kataras",
                 "repo": "iris",
-                "stars": 25558
+                "stars": 25558,
+                "topics": [
+                  "dependency-injection",
+                  "go",
+                  "golang",
+                  "http2",
+                  "iris",
+                  "mvc",
+                  "sessions",
+                  "web-framework",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -466,12 +815,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go agent harness and service framework",
+                "homepage": "https://go-micro.dev",
                 "id": 29217054,
                 "language": "Go",
-                "last_commit": "2026-08-25T06:03:58Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:28:26Z",
+                "open_issues": 8,
                 "owner": "micro",
                 "repo": "go-micro",
-                "stars": 23045
+                "stars": 23047,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "distributed-systems",
+                  "go",
+                  "golang",
+                  "mcp",
+                  "micro",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -482,12 +845,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+                "homepage": "https://go-chi.io",
                 "id": 44344606,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:57:27Z",
+                "open_issues": 83,
                 "owner": "go-chi",
                 "repo": "chi",
-                "stars": 22739
+                "stars": 22743,
+                "topics": [
+                  "api",
+                  "context",
+                  "go",
+                  "golang",
+                  "http",
+                  "microservices",
+                  "middleware",
+                  "rest-api",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -498,12 +876,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+                "homepage": "https://gofr.dev",
                 "id": 709242076,
                 "language": "Go",
-                "last_commit": "2026-08-28T05:09:18Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T10:59:02Z",
+                "open_issues": 146,
                 "owner": "gofr-dev",
                 "repo": "gofr",
-                "stars": 20967
+                "stars": 20964,
+                "topics": [
+                  "framework",
+                  "go",
+                  "go-framework",
+                  "golang",
+                  "golang-framework",
+                  "grpc",
+                  "grpc-go",
+                  "grpc-golang",
+                  "hacktoberfest",
+                  "http-server",
+                  "logging",
+                  "metrics",
+                  "microservice",
+                  "microservice-framework",
+                  "opentelemetry",
+                  "performance",
+                  "rest-api",
+                  "server",
+                  "tracing",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -514,12 +918,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!",
+                "homepage": "https://rpcx.io",
                 "id": 59101986,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T13:19:21Z",
+                "open_issues": 4,
                 "owner": "smallnest",
                 "repo": "rpcx",
-                "stars": 8312
+                "stars": 8312,
+                "topics": [
+                  "dubbo",
+                  "grpc",
+                  "microservice",
+                  "microservices",
+                  "rpc",
+                  "service-discovery"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -530,12 +946,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation",
+                "homepage": "https://luraproject.org",
                 "id": 72875399,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T15:49:15Z",
+                "open_issues": 13,
                 "owner": "luraproject",
                 "repo": "lura",
-                "stars": 6793
+                "stars": 6793,
+                "topics": [
+                  "api-gateway",
+                  "apis",
+                  "backend-services",
+                  "gateway",
+                  "gateway-api",
+                  "go",
+                  "golang",
+                  "krakend",
+                  "load-balancer",
+                  "microservice",
+                  "middleware",
+                  "proxies",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -546,12 +981,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.",
+                "homepage": "https://goa.design",
                 "id": 27579614,
                 "language": "Go",
-                "last_commit": "2026-08-27T03:51:24Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:13:58Z",
+                "open_issues": 43,
                 "owner": "goadesign",
                 "repo": "goa",
-                "stars": 6091
+                "stars": 6091,
+                "topics": [
+                  "api",
+                  "code-generation",
+                  "go",
+                  "goa",
+                  "golang",
+                  "microservices",
+                  "openapi",
+                  "rest",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -562,12 +1012,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a cloud native application framework for Go with rich eco-system",
+                "homepage": null,
                 "id": 117545507,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:29:38Z",
+                "open_issues": 45,
                 "owner": "go-chassis",
                 "repo": "go-chassis",
-                "stars": 2725
+                "stars": 2725,
+                "topics": [
+                  "circuit-breaker",
+                  "cloud-native",
+                  "distributed-systems",
+                  "framework",
+                  "go",
+                  "go-restful",
+                  "grpc",
+                  "istio",
+                  "kubernetes",
+                  "microservice",
+                  "restful",
+                  "servicecomb",
+                  "servicemesh"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -585,12 +1054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RESTful Haskell web framework built on WAI.",
+                "homepage": "http://www.yesodweb.com/",
                 "id": 237904,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2026-07-29T15:57:04Z",
+                "open_issues": 132,
                 "owner": "yesodweb",
                 "repo": "yesod",
-                "stars": 2722
+                "stars": 2722,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -601,12 +1075,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!",
+                "homepage": "https://docs.servant.dev/",
                 "id": 27440142,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2026-08-22T13:29:39Z",
+                "open_issues": 299,
                 "owner": "haskell-servant",
                 "repo": "servant",
-                "stars": 1967
+                "stars": 1967,
+                "topics": [
+                  "hacktoberfest",
+                  "haskell"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -617,12 +1099,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)",
+                "homepage": "http://hackage.haskell.org/package/scotty",
                 "id": 3077100,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-26T10:50:49Z",
+                "open_issues": 29,
                 "owner": "scotty-web",
                 "repo": "scotty",
-                "stars": 1776
+                "stars": 1776,
+                "topics": [
+                  "rest",
+                  "rest-api",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -642,12 +1133,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A concise routing library for Ring/Clojure",
+                    "homepage": null,
                     "id": 13677,
                     "language": "Clojure",
+                    "license": "EPL-1.0",
                     "last_commit": "2025-09-15T14:44:43Z",
+                    "open_issues": 7,
                     "owner": "weavejester",
                     "repo": "compojure",
-                    "stars": 4112
+                    "stars": 4112,
+                    "topics": [
+                      "clojure",
+                      "http",
+                      "ring",
+                      "routing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -658,12 +1159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reloaded components à la carte",
+                    "homepage": null,
                     "id": 22241341,
                     "language": "Clojure",
+                    "license": null,
                     "last_commit": "2025-08-16T04:58:41Z",
+                    "open_issues": 12,
                     "owner": "danielsz",
                     "repo": "system",
-                    "stars": 607
+                    "stars": 607,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -674,12 +1180,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Common basis for some of otto.de's clojure microservices",
+                    "homepage": null,
                     "id": 29676123,
                     "language": "Clojure",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-13T13:18:53Z",
+                    "open_issues": 2,
                     "owner": "otto-de",
                     "repo": "tesla-microservice",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 }
@@ -697,12 +1208,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+                    "homepage": "https://dubbo.apache.org/",
                     "id": 4710920,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T02:12:02Z",
+                    "open_issues": 1033,
                     "owner": "apache",
                     "repo": "dubbo",
-                    "stars": 41559
+                    "stars": 41561,
+                    "topics": [
+                      "distributed-systems",
+                      "dubbo",
+                      "framework",
+                      "grpc",
+                      "http",
+                      "java",
+                      "microservices",
+                      "restful",
+                      "rpc",
+                      "service-mesh",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -713,12 +1241,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High Performance Inter-Thread Messaging Library",
+                    "homepage": "http://lmax-exchange.github.io/disruptor/",
                     "id": 5901900,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-02T13:03:33Z",
+                    "open_issues": 17,
                     "owner": "LMAX-Exchange",
                     "repo": "disruptor",
-                    "stars": 18456
+                    "stars": 18456,
+                    "topics": [
+                      "concurrency",
+                      "disruptor",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -729,12 +1266,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A damn simple library for building production-ready RESTful web services.",
+                    "homepage": "https://www.dropwizard.io",
                     "id": 1272129,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T23:55:29Z",
+                    "open_issues": 42,
                     "owner": "dropwizard",
                     "repo": "dropwizard",
-                    "stars": 8577
+                    "stars": 8577,
+                    "topics": [
+                      "dropwizard",
+                      "hibernate",
+                      "java",
+                      "jax-rs",
+                      "jdbi",
+                      "jersey-framework",
+                      "jersey2",
+                      "jetty",
+                      "rest",
+                      "restful-webservices",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -745,12 +1299,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ActiveJ is an alternative Java platform built from the ground up. ActiveJ redefines core, web and high-load programming in Java, providing simplicity, maximum performance and scalability",
+                    "homepage": "https://activej.io",
                     "id": 267619299,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-09T15:56:16Z",
+                    "open_issues": 48,
                     "owner": "activej",
                     "repo": "activej",
-                    "stars": 998
+                    "stars": 998,
+                    "topics": [
+                      "async",
+                      "code-generation",
+                      "dependency-injection",
+                      "framework",
+                      "high-performance",
+                      "java",
+                      "microservice",
+                      "microservices",
+                      "rpc",
+                      "rpc-framework",
+                      "serializer",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -761,12 +1333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Eclipse Jersey Project - Read our Wiki:",
+                    "homepage": "https://github.com/eclipse-ee4j/jersey/wiki",
                     "id": 129954828,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-25T22:44:15Z",
+                    "open_issues": 828,
                     "owner": "eclipse-ee4j",
                     "repo": "jersey",
-                    "stars": 730
+                    "stars": 730,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -777,12 +1354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Airlift framework for building REST services",
+                    "homepage": null,
                     "id": 4681328,
                     "language": "Java",
-                    "last_commit": "2026-08-27T21:42:47Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T21:42:24Z",
+                    "open_issues": 136,
                     "owner": "airlift",
                     "repo": "airlift",
-                    "stars": 641
+                    "stars": 641,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 },
@@ -793,12 +1375,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Opinionated libraries for HTTP&JSON-based RPC using Dialogue, Feign, OkHttp as clients and Jetty/Jersey as servers",
+                    "homepage": null,
                     "id": 43088077,
                     "language": "Java",
-                    "last_commit": "2026-08-28T00:01:29Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T21:18:47Z",
+                    "open_issues": 45,
                     "owner": "palantir",
                     "repo": "conjure-java-runtime",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "octo-correct-managed"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:07.947Z"
                 }
@@ -821,12 +1410,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
+                "homepage": "https://serverless.com",
                 "id": 34302698,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T18:53:36Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:26:45Z",
+                "open_issues": 1216,
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46919
+                "stars": 46917,
+                "topics": [
+                  "aws",
+                  "aws-dynamodb",
+                  "aws-lambda",
+                  "azure-functions",
+                  "google-cloud-functions",
+                  "microservice",
+                  "serverless",
+                  "serverless-architectures",
+                  "serverless-framework"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -837,12 +1441,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ",
+                "homepage": "https://tRPC.io",
                 "id": 280557054,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T21:58:09Z",
+                "open_issues": 313,
                 "owner": "trpc",
                 "repo": "trpc",
-                "stars": 40553
+                "stars": 40556,
+                "topics": [
+                  "api",
+                  "next",
+                  "nextjs",
+                  "prisma",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -853,12 +1469,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A microservices toolkit for Node.js.",
+                "homepage": "http://senecajs.org",
                 "id": 1012745,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T22:39:57Z",
+                "open_issues": 214,
                 "owner": "senecajs",
                 "repo": "seneca",
-                "stars": 3959
+                "stars": 3959,
+                "topics": [
+                  "javascript",
+                  "microservices",
+                  "node",
+                  "seneca"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -876,12 +1502,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.",
+                "homepage": "https://www.hyperf.io",
                 "id": 159606650,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-17T01:58:30Z",
+                "open_issues": 446,
                 "owner": "hyperf",
                 "repo": "hyperf",
-                "stars": 6892
+                "stars": 6892,
+                "topics": [
+                  "amqp",
+                  "annotation",
+                  "aop",
+                  "attributes",
+                  "coroutine",
+                  "dependency-injection",
+                  "framework",
+                  "grpc",
+                  "hyperf",
+                  "json-rpc",
+                  "microservice",
+                  "microservices",
+                  "opentracing",
+                  "php",
+                  "psr-14",
+                  "psr-15",
+                  "psr-7",
+                  "swoole",
+                  "swow",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -892,12 +1544,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 PHP Microservice Full Coroutine Framework",
+                "homepage": "https://swoft.org",
                 "id": 89130234,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-28T12:57:06Z",
+                "open_issues": 192,
                 "owner": "swoft-cloud",
                 "repo": "swoft",
-                "stars": 5536
+                "stars": 5536,
+                "topics": [
+                  "annotation-framework",
+                  "annotations",
+                  "aop",
+                  "api",
+                  "coroutine",
+                  "framework",
+                  "http-server",
+                  "microservice",
+                  "mvc",
+                  "rpc",
+                  "spring-cloud",
+                  "springboot",
+                  "swoole",
+                  "tcp-server",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -915,12 +1588,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Accelerate your web app development  | Build fast. Run fast.",
+                "homepage": "https://sanic.dev",
                 "id": 59720190,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-29T03:09:51Z",
+                "open_issues": 146,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18645
+                "stars": 18646,
+                "topics": [
+                  "api-server",
+                  "asgi",
+                  "asyncio",
+                  "framework",
+                  "python",
+                  "sanic",
+                  "web",
+                  "web-framework",
+                  "web-server"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -931,12 +1619,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+                "homepage": "https://docs.aiohttp.org",
                 "id": 13258039,
                 "language": "Python",
-                "last_commit": "2026-08-28T03:41:38Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:18:24Z",
+                "open_issues": 225,
                 "owner": "aio-libs",
                 "repo": "aiohttp",
-                "stars": 16529
+                "stars": 16532,
+                "topics": [
+                  "aiohttp",
+                  "async",
+                  "asyncio",
+                  "hacktoberfest",
+                  "http",
+                  "http-client",
+                  "http-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -947,12 +1649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "web.py is a web framework for python that is as simple as it is powerful. ",
+                "homepage": "http://webpy.org",
                 "id": 57419,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-22T18:30:13Z",
+                "open_issues": 52,
                 "owner": "webpy",
                 "repo": "webpy",
-                "stars": 5921
+                "stars": 5921,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -963,12 +1670,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python framework for building microservices",
+                "homepage": "https://www.nameko.io",
                 "id": 8431589,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-01T22:12:22Z",
+                "open_issues": 97,
                 "owner": "nameko",
                 "repo": "nameko",
-                "stars": 4754
+                "stars": 4754,
+                "topics": [
+                  "framework",
+                  "microservices",
+                  "nameko",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -979,12 +1696,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connexion is a modern Python web framework that makes spec-first and api-first development easy.",
+                "homepage": "https://connexion.readthedocs.io/en/latest/",
                 "id": 35882519,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T17:05:24Z",
+                "open_issues": 185,
                 "owner": "spec-first",
                 "repo": "connexion",
-                "stars": 4611
+                "stars": 4612,
+                "topics": [
+                  "api-first",
+                  "api-rest",
+                  "flask-extensions",
+                  "microservices",
+                  "openapi",
+                  "python",
+                  "swagger",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1002,12 +1733,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+                "homepage": "http://www.ruby-grape.org",
                 "id": 812393,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:04:39Z",
+                "open_issues": 237,
                 "owner": "ruby-grape",
                 "repo": "grape",
-                "stars": 10004
+                "stars": 10005,
+                "topics": [
+                  "api",
+                  "grape",
+                  "hacktoberfest",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1018,12 +1759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Praxis is a framework that focuses on both the design and implementation aspects of creating APIs.",
+                "homepage": "praxis-framework.io",
                 "id": 21172715,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-12T21:21:15Z",
+                "open_issues": 13,
                 "owner": "praxis",
                 "repo": "praxis",
-                "stars": 302
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1034,12 +1780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light-weight, DRY as a desert, web framework for Ruby.",
+                "homepage": "http://scorchedrb.com",
                 "id": 5364066,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-31T02:03:24Z",
+                "open_issues": 0,
                 "owner": "Wardrop",
                 "repo": "Scorched",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1057,12 +1808,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "async fn(Request) -> Result<Response, Error>",
+                "homepage": "https://docs.rs/tower",
                 "id": 98244646,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-22T13:58:59Z",
+                "open_issues": 99,
                 "owner": "tower-rs",
                 "repo": "tower",
-                "stars": 4285
+                "stars": 4285,
+                "topics": [
+                  "middleware",
+                  "rust",
+                  "tower"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1073,12 +1833,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An RPC framework for Rust with a focus on ease of use.",
+                "homepage": null,
                 "id": 51486006,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-12T04:43:00Z",
+                "open_issues": 58,
                 "owner": "google",
                 "repo": "tarpc",
-                "stars": 3736
+                "stars": 3737,
+                "topics": [
+                  "asynchronous-programming",
+                  "futures",
+                  "rpc-framework",
+                  "rust",
+                  "tokio"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1089,12 +1860,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Written by humans. WTX is a collection of different transport implementations and related tools focused primarily on web technologies.",
+                "homepage": "https://c410-f3r.github.io/wtx/",
                 "id": 684042595,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-23T22:12:16Z",
+                "open_issues": 6,
                 "owner": "c410-f3r",
                 "repo": "wtx",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "api",
+                  "certificate",
+                  "cli",
+                  "database",
+                  "email",
+                  "embedded",
+                  "framework",
+                  "grpc",
+                  "http",
+                  "http2",
+                  "network",
+                  "postgres",
+                  "rust",
+                  "smtp",
+                  "sql",
+                  "time",
+                  "tls",
+                  "web",
+                  "websocket",
+                  "x509"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1118,12 +1915,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦍 The API and AI Gateway",
+                "homepage": "https://konghq.com/install/",
                 "id": 26783295,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T14:44:43Z",
+                "open_issues": 191,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44052
+                "stars": 44055,
+                "topics": [
+                  "ai",
+                  "ai-gateway",
+                  "api-gateway",
+                  "api-management",
+                  "apis",
+                  "artificial-intelligence",
+                  "cloud-native",
+                  "devops",
+                  "kubernetes",
+                  "kubernetes-ingress",
+                  "kubernetes-ingress-controller",
+                  "llm-gateway",
+                  "llm-ops",
+                  "mcp",
+                  "mcp-gateway",
+                  "microservice",
+                  "microservices",
+                  "openai-proxy",
+                  "reverse-proxy",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1134,12 +1957,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud-native high-performance edge/middle/service proxy",
+                "homepage": "https://www.envoyproxy.io",
                 "id": 65214191,
                 "language": "C++",
-                "last_commit": "2026-08-28T06:05:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:24:45Z",
+                "open_issues": 1866,
                 "owner": "envoyproxy",
                 "repo": "envoy",
-                "stars": 28829
+                "stars": 28833,
+                "topics": [
+                  "cars",
+                  "cats",
+                  "cats-over-dogs",
+                  "cncf",
+                  "corgis",
+                  "more-cats",
+                  "nanoservices",
+                  "rocket-ships"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1150,12 +1987,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for building fast, reliable and evolvable network services.",
+                "homepage": null,
                 "id": 636853988,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T17:30:22Z",
+                "open_issues": 283,
                 "owner": "cloudflare",
                 "repo": "pingora",
-                "stars": 27284
+                "stars": 27290,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1166,12 +2008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.",
+                "homepage": null,
                 "id": 8759133,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:32:42Z",
+                "open_issues": 13,
                 "owner": "Netflix",
                 "repo": "zuul",
-                "stars": 14063
+                "stars": 14063,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1182,12 +2029,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛡️ Open-source and cloud-native Web Application Firewall (WAF)",
+                "homepage": "https://www.bunkerweb.io",
                 "id": 203456148,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:48:12Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T09:28:08Z",
+                "open_issues": 157,
                 "owner": "bunkerity",
                 "repo": "bunkerweb",
-                "stars": 10872
+                "stars": 10880,
+                "topics": [
+                  "antibot",
+                  "cybersecurity",
+                  "devops",
+                  "devsecops",
+                  "dnsbl",
+                  "docker",
+                  "hardening",
+                  "hosting",
+                  "kubernetes",
+                  "letsencrypt",
+                  "modsecurity",
+                  "nginx",
+                  "reverse-proxy",
+                  "security",
+                  "security-tuning",
+                  "swarm",
+                  "waap",
+                  "waf",
+                  "web-application-firewall",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1198,12 +2071,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HAProxy Load Balancer's development branch (mirror of git.haproxy.org)",
+                "homepage": "https://git.haproxy.org/",
                 "id": 128791889,
                 "language": "C",
-                "last_commit": "2026-08-26T16:59:47Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:45:39Z",
+                "open_issues": 383,
                 "owner": "haproxy",
                 "repo": "haproxy",
-                "stars": 6813
+                "stars": 6817,
+                "topics": [
+                  "cache",
+                  "caching",
+                  "ddos-mitigation",
+                  "fastcgi",
+                  "haproxy",
+                  "high-availability",
+                  "high-performance",
+                  "http",
+                  "http2",
+                  "https",
+                  "ipv6",
+                  "load-balancer",
+                  "proxy",
+                  "proxy-protocol",
+                  "reverse-proxy",
+                  "tls13"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1214,12 +2109,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
+                "homepage": "https://opensource.zalando.com/skipper/",
                 "id": 38812664,
                 "language": "Go",
-                "last_commit": "2026-08-27T16:27:10Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:05:16Z",
+                "open_issues": 307,
                 "owner": "zalando",
                 "repo": "skipper",
-                "stars": 3319
+                "stars": 3319,
+                "topics": [
+                  "cloud",
+                  "eskip",
+                  "etcd",
+                  "go",
+                  "http-proxy",
+                  "ingress-controller",
+                  "kubernetes",
+                  "kubernetes-controller",
+                  "kubernetes-ingress",
+                  "mosaic",
+                  "proxy",
+                  "router",
+                  "skipper"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1230,12 +2144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Programmatic load balancer backed by Etcd",
+                "homepage": "http://vulcand.readthedocs.io/",
                 "id": 18165661,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-27T08:36:18Z",
+                "open_issues": 71,
                 "owner": "vulcand",
                 "repo": "vulcand",
-                "stars": 3095
+                "stars": 3095,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1246,12 +2165,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.",
+                "homepage": "https://trafficserver.apache.org/",
                 "id": 356066,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T23:05:37Z",
+                "open_issues": 289,
                 "owner": "apache",
                 "repo": "trafficserver",
-                "stars": 1977
+                "stars": 1978,
+                "topics": [
+                  "apache",
+                  "cache",
+                  "cdn",
+                  "forwardproxy",
+                  "hacktoberfest",
+                  "http2",
+                  "http3",
+                  "proxy",
+                  "quic",
+                  "reverseproxy"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1262,12 +2197,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3scale API Gateway",
+                "homepage": null,
                 "id": 53965666,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T23:43:39Z",
+                "open_issues": 63,
                 "owner": "3scale",
                 "repo": "APIcast",
-                "stars": 324
+                "stars": 324,
+                "topics": [
+                  "3scale",
+                  "api-gateway",
+                  "openresty"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1278,12 +2222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neutrino is a software load balancer(SLB)",
+                "homepage": "http://neutrinoslb.io",
                 "id": 48767383,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-02-09T00:28:38Z",
+                "open_issues": 9,
                 "owner": "eBay",
                 "repo": "Neutrino",
-                "stars": 314
+                "stars": 314,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1301,12 +2250,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+                "homepage": "https://etcd.io",
                 "id": 11225014,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:00:34Z",
+                "open_issues": 331,
                 "owner": "etcd-io",
                 "repo": "etcd",
-                "stars": 52193
+                "stars": 52199,
+                "topics": [
+                  "cncf",
+                  "consensus",
+                  "database",
+                  "distributed-database",
+                  "distributed-systems",
+                  "etcd",
+                  "go",
+                  "key-value",
+                  "kubernetes",
+                  "raft"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1317,12 +2282,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+                "homepage": "https://nacos.io",
                 "id": 137451403,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:21:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T09:24:11Z",
+                "open_issues": 179,
                 "owner": "alibaba",
                 "repo": "nacos",
-                "stars": 33315
+                "stars": 33318,
+                "topics": [
+                  "a2a-registry",
+                  "agent",
+                  "ai-registry",
+                  "configuration-management",
+                  "distributed-configuration",
+                  "dubbo",
+                  "istio",
+                  "kubernetes",
+                  "mcp",
+                  "mcp-management",
+                  "mcp-registry",
+                  "microservices",
+                  "nacos",
+                  "prompt",
+                  "skills",
+                  "spring-cloud"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1333,12 +2320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWS Service registry for resilient mid-tier load balancing and failover.",
+                "homepage": null,
                 "id": 5198041,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T17:23:12Z",
+                "open_issues": 138,
                 "owner": "Netflix",
                 "repo": "eureka",
-                "stars": 12737
+                "stars": 12737,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1349,12 +2341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DNS service discovery for etcd",
+                "homepage": null,
                 "id": 19206385,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-03-21T11:57:30Z",
+                "open_issues": 61,
                 "owner": "skynetservices",
                 "repo": "skydns",
-                "stars": 2199
+                "stars": 2199,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1372,12 +2369,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+                "homepage": "https://go.kestra.io/home",
                 "id": 204164353,
                 "language": "Java",
-                "last_commit": "2026-08-28T05:12:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:05:52Z",
+                "open_issues": 676,
                 "owner": "kestra-io",
                 "repo": "kestra",
-                "stars": 27942
+                "stars": 27946,
+                "topics": [
+                  "ai-agents",
+                  "automation",
+                  "control-plane",
+                  "data-engineering",
+                  "data-orchestration",
+                  "data-orchestrator",
+                  "devops",
+                  "etl",
+                  "hacktoberfest",
+                  "high-availability",
+                  "infra-automation",
+                  "infra-ops",
+                  "infrastructure-as-code",
+                  "java",
+                  "low-code",
+                  "orchestration",
+                  "pipeline",
+                  "pipeline-as-code",
+                  "scheduler",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1388,12 +2411,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal service",
+                "homepage": "https://docs.temporal.io",
                 "id": 215654064,
                 "language": "Go",
-                "last_commit": "2026-08-28T05:51:17Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:45:54Z",
+                "open_issues": 929,
                 "owner": "temporalio",
                 "repo": "temporal",
-                "stars": 22573
+                "stars": 22593,
+                "topics": [
+                  "cronjob-scheduler",
+                  "distributed-cron",
+                  "distributed-systems",
+                  "durable-execution",
+                  "golang",
+                  "microservice-framework",
+                  "microservice-orchestration",
+                  "microservices-architecture",
+                  "orchestrator",
+                  "service-bus",
+                  "service-fabric",
+                  "workflow-automation",
+                  "workflow-engine",
+                  "workflow-management",
+                  "workflow-management-system",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1404,12 +2449,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Conductor is a microservices orchestration engine.",
+                "homepage": null,
                 "id": 75882172,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-22T23:40:04Z",
+                "open_issues": 164,
                 "owner": "Netflix",
                 "repo": "conductor",
-                "stars": 12754
+                "stars": 12754,
+                "topics": [
+                  "distributed-systems",
+                  "grpc",
+                  "java",
+                  "javascript",
+                  "microservice-orchestration",
+                  "orchestration-engine",
+                  "orchestrator",
+                  "reactjs",
+                  "spring-boot",
+                  "workflow-automation",
+                  "workflow-engine",
+                  "workflow-management",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1420,12 +2484,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+                "homepage": "https://www.inngest.com/docs",
                 "id": 374763231,
                 "language": "Go",
-                "last_commit": "2026-08-27T23:08:36Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:07:43Z",
+                "open_issues": 229,
                 "owner": "inngest",
                 "repo": "inngest",
-                "stars": 5768
+                "stars": 5774,
+                "topics": [
+                  "cli",
+                  "event-driven",
+                  "event-driven-architecture",
+                  "queues",
+                  "serverless",
+                  "serverless-functions",
+                  "workflow-engine",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1443,12 +2521,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+                "homepage": "https://valkey.io",
                 "id": 775743011,
                 "language": "C",
-                "last_commit": "2026-08-28T04:51:54Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T02:22:10Z",
+                "open_issues": 891,
                 "owner": "valkey-io",
                 "repo": "valkey",
-                "stars": 26996
+                "stars": 27003,
+                "topics": [
+                  "cache",
+                  "database",
+                  "key-value",
+                  "key-value-store",
+                  "nosql",
+                  "redis",
+                  "valkey",
+                  "valkey-client"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1459,12 +2551,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+                "homepage": "https://redisson.pro",
                 "id": 15823460,
                 "language": "Java",
-                "last_commit": "2026-08-27T17:02:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:27:24Z",
+                "open_issues": 237,
                 "owner": "redisson",
                 "repo": "redisson",
-                "stars": 24379
+                "stars": 24380,
+                "topics": [
+                  "cache",
+                  "distributed",
+                  "distributed-locks",
+                  "executor",
+                  "hibernate",
+                  "java",
+                  "json",
+                  "lock",
+                  "map",
+                  "micronaut",
+                  "quarkus",
+                  "queue",
+                  "redis",
+                  "redis-client",
+                  "scheduler",
+                  "session",
+                  "spring",
+                  "tomcat",
+                  "valkey",
+                  "valkey-client"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1482,12 +2600,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Task Queue (development branch)",
+                "homepage": "https://docs.celeryq.dev",
                 "id": 184460,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T22:12:46Z",
+                "open_issues": 756,
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28831
+                "stars": 28836,
+                "topics": [
+                  "amqp",
+                  "python",
+                  "python-library",
+                  "python3",
+                  "queue-tasks",
+                  "queue-workers",
+                  "queued-jobs",
+                  "redis",
+                  "redis-queue",
+                  "sqs",
+                  "sqs-queue",
+                  "task-manager",
+                  "task-runner",
+                  "task-scheduler"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1498,12 +2636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language-agnostic persistent background job server",
+                "homepage": "https://contribsys.com/faktory/",
                 "id": 94461013,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T00:21:00Z",
+                "open_issues": 23,
                 "owner": "contribsys",
                 "repo": "faktory",
-                "stars": 6143
+                "stars": 6143,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1514,12 +2657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "schedulix enterprise job scheduling system",
+                "homepage": "www.schedulix.org",
                 "id": 11503003,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-05T10:17:04Z",
+                "open_issues": 1,
                 "owner": "schedulix",
                 "repo": "schedulix",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1537,12 +2685,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Prometheus, but for logs.",
+                "homepage": "https://grafana.com/oss/loki",
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-28T06:09:52Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:25:58Z",
+                "open_issues": 1729,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28795
+                "stars": 28799,
+                "topics": [
+                  "cloudnative",
+                  "grafana",
+                  "hacktoberfest",
+                  "logging",
+                  "loki",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1560,12 +2720,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+                "homepage": "https://rocketmq.apache.org/",
                 "id": 75164823,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T07:12:47Z",
+                "open_issues": 576,
                 "owner": "apache",
                 "repo": "rocketmq",
-                "stars": 22571
+                "stars": 22571,
+                "topics": [
+                  "cloud-native",
+                  "eventing",
+                  "hacktoberfest",
+                  "java",
+                  "messaging",
+                  "rocketmq",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1576,12 +2749,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Premium Queue package for handling distributed jobs and messages in NodeJS.",
+                "homepage": null,
                 "id": 10999165,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-20T22:57:44Z",
+                "open_issues": 148,
                 "owner": "OptimalBits",
                 "repo": "bull",
-                "stars": 16251
+                "stars": 16251,
+                "topics": [
+                  "job",
+                  "job-queue",
+                  "message",
+                  "message-queue",
+                  "nodejs",
+                  "priority",
+                  "queue",
+                  "rate-limiter",
+                  "scheduler"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1592,12 +2780,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+                "homepage": "https://redpanda.com",
                 "id": 309512982,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-22T00:45:06Z",
+                "open_issues": 546,
                 "owner": "redpanda-data",
                 "repo": "redpanda",
-                "stars": 12495
+                "stars": 12497,
+                "topics": [
+                  "containers",
+                  "cpp",
+                  "event-driven",
+                  "go",
+                  "kafka",
+                  "kubernetes",
+                  "microservices",
+                  "realtime",
+                  "redpanda",
+                  "seastar",
+                  "storage-engine",
+                  "stream-processing",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1608,12 +2815,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+                "homepage": "https://aeron.io",
                 "id": 16621659,
                 "language": "Java",
-                "last_commit": "2026-08-27T14:33:57Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:56:29Z",
+                "open_issues": 26,
                 "owner": "aeron-io",
                 "repo": "aeron",
-                "stars": 8819
+                "stars": 8824,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "ipc",
+                  "java",
+                  "messaging",
+                  "multicast-streams"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1624,12 +2843,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crossbar.io - WAMP application router",
+                "homepage": "https://crossbario.readthedocs.io/",
                 "id": 13559106,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T05:17:19Z",
+                "open_issues": 305,
                 "owner": "crossbario",
                 "repo": "crossbar",
-                "stars": 2064
+                "stars": 2064,
+                "topics": [
+                  "broker",
+                  "messaging",
+                  "mqtt",
+                  "networking",
+                  "networking-stack",
+                  "rest",
+                  "server",
+                  "wamp",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1640,12 +2874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ZeroMQ Enterprise Messaging Broker",
+                "homepage": null,
                 "id": 24999157,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2025-06-25T00:12:47Z",
+                "open_issues": 28,
                 "owner": "zeromq",
                 "repo": "malamute",
-                "stars": 334
+                "stars": 334,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1663,12 +2902,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy & Flexible Alerting With ElasticSearch",
+                "homepage": "https://elastalert.readthedocs.org",
                 "id": 27091760,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-07T06:30:10Z",
+                "open_issues": 1401,
                 "owner": "YelpArchive",
                 "repo": "elastalert",
-                "stars": 7987
+                "stars": 7987,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1686,12 +2930,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed stream processing engine in Rust",
+                "homepage": "https://arroyo.dev",
                 "id": 621929252,
                 "language": "Rust",
-                "last_commit": "2026-08-20T20:52:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:33:32Z",
+                "open_issues": 120,
                 "owner": "ArroyoSystems",
                 "repo": "arroyo",
-                "stars": 5018
+                "stars": 5019,
+                "topics": [
+                  "data",
+                  "data-stream-processing",
+                  "dev-tools",
+                  "infrastructure",
+                  "kafka",
+                  "rust",
+                  "sql",
+                  "stream-processing",
+                  "stream-processing-engine"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1702,12 +2961,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+                "homepage": "https://doc.akka.io/libraries/alpakka-kafka/current/",
                 "id": 28635588,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T08:21:22Z",
+                "open_issues": 112,
                 "owner": "akka",
                 "repo": "alpakka-kafka",
-                "stars": 1422
+                "stars": 1422,
+                "topics": [
+                  "akka",
+                  "akka-streams",
+                  "java",
+                  "kafka",
+                  "kafka-client",
+                  "kafka-connector",
+                  "reactive",
+                  "reactive-streams",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1725,12 +2999,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming",
+                "homepage": null,
                 "id": 36793280,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T06:46:06Z",
+                "open_issues": 303,
                 "owner": "resilience4j",
                 "repo": "resilience4j",
-                "stars": 10752
+                "stars": 10752,
+                "topics": [
+                  "bulkhead",
+                  "circuitbreaker",
+                  "metrics",
+                  "rate-limiter",
+                  "resilience",
+                  "retry"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1741,12 +3027,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Chaos Engineering resources.",
+                "homepage": null,
                 "id": 98446777,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-12-28T19:30:06Z",
+                "open_issues": 72,
                 "owner": "dastergon",
                 "repo": "awesome-chaos-engineering",
-                "stars": 6642
+                "stars": 6642,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "chaos",
+                  "chaos-community",
+                  "chaos-engineering",
+                  "chaos-monkey",
+                  "chaos-testing",
+                  "netflix-chaos-monkey",
+                  "resilience",
+                  "simian-army",
+                  "site-reliability-engineering"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1764,12 +3067,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Identity and Access Management For Modern Applications and Services",
+                "homepage": "https://www.keycloak.org",
                 "id": 11125589,
                 "language": "Java",
-                "last_commit": "2026-08-28T05:45:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:42:58Z",
+                "open_issues": 3152,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36455
+                "stars": 36475,
+                "topics": [
+                  "keycloak",
+                  "oidc",
+                  "saml"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1780,12 +3092,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+                "homepage": "https://dexidp.io",
                 "id": 40916314,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T04:04:36Z",
+                "open_issues": 535,
                 "owner": "dexidp",
                 "repo": "dex",
-                "stars": 11067
+                "stars": 11069,
+                "topics": [
+                  "hacktoberfest",
+                  "identity-provider",
+                  "idp",
+                  "kubernetes",
+                  "oidc"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1796,12 +3119,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OWASP Foundation web repository",
+                "homepage": "http://owasp.org/www-project-agent-memory-guard/",
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-28T03:44:22Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:09:33Z",
+                "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 159
+                "stars": 161,
+                "topics": [
+                  "agent-memory",
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-safety",
+                  "ai-security",
+                  "autogen",
+                  "crewai",
+                  "langchain",
+                  "llm-agents",
+                  "llm-security",
+                  "mcp",
+                  "mcp-server",
+                  "mem0",
+                  "memory-poisoning",
+                  "openai-agents",
+                  "owasp",
+                  "prompt-injection",
+                  "python",
+                  "rag-security",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -1819,12 +3168,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",
+                "homepage": "https://github.com/alibaba/fastjson2/wiki/fastjson_1_upgrade_cn",
                 "id": 2700474,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T08:04:40Z",
+                "open_issues": 2112,
                 "owner": "alibaba",
                 "repo": "fastjson",
-                "stars": 25598
+                "stars": 25598,
+                "topics": [
+                  "android",
+                  "best-performance",
+                  "deserialization",
+                  "fastjson",
+                  "java",
+                  "json",
+                  "json-parser",
+                  "json-serialization",
+                  "json-serializer",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1835,12 +3200,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main Portal page for the Jackson project",
+                "homepage": null,
                 "id": 2604249,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-17T03:05:02Z",
+                "open_issues": 0,
                 "owner": "FasterXML",
                 "repo": "jackson",
-                "stars": 9802
+                "stars": 9803,
+                "topics": [
+                  "hacktoberfest",
+                  "jackson",
+                  "java-json",
+                  "java-json-library"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1851,12 +3226,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java binary serialization and cloning: fast, efficient, automatic",
+                "homepage": null,
                 "id": 14173176,
                 "language": "HTML",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T12:00:32Z",
+                "open_issues": 28,
                 "owner": "EsotericSoftware",
                 "repo": "kryo",
-                "stars": 6545
+                "stars": 6545,
+                "topics": [
+                  "cloning",
+                  "java",
+                  "kryo",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1867,12 +3252,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest JSON library in C",
+                "homepage": "https://ibireme.github.io/yyjson/doc/doxygen/html/",
                 "id": 302298095,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:01:16Z",
+                "open_issues": 41,
                 "owner": "ibireme",
                 "repo": "yyjson",
-                "stars": 3850
+                "stars": 3853,
+                "topics": [
+                  "ansi-c",
+                  "c",
+                  "c89",
+                  "cross-platform",
+                  "deserialization",
+                  "json",
+                  "json5",
+                  "portable",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1883,12 +3283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "faster JSON serialization for Go",
+                "homepage": null,
                 "id": 17944871,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-21T19:52:42Z",
+                "open_issues": 59,
                 "owner": "pquerna",
                 "repo": "ffjson",
-                "stars": 2993
+                "stars": 2993,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1899,12 +3304,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bond was a cross-platform framework for working with schematized data. The open-source project ended on March 31, 2025.",
+                "homepage": null,
                 "id": 28014525,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-04-01T04:37:42Z",
+                "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "bond",
-                "stars": 2622
+                "stars": 2622,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1915,12 +3325,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java serialization library, proto compiler, code generator",
+                "homepage": "https://protostuff.github.io",
                 "id": 16058167,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-02T04:29:11Z",
+                "open_issues": 101,
                 "owner": "protostuff",
                 "repo": "protostuff",
-                "stars": 2096
+                "stars": 2096,
+                "topics": [
+                  "graph",
+                  "java",
+                  "json",
+                  "protobuf",
+                  "protostuff",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1931,12 +3353,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FST: fast java serialization drop in-replacement ",
+                "homepage": null,
                 "id": 14965048,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-30T08:15:18Z",
+                "open_issues": 127,
                 "owner": "RuedigerMoeller",
                 "repo": "fast-serialization",
-                "stars": 1595
+                "stars": 1595,
+                "topics": [
+                  "faster",
+                  "java",
+                  "json",
+                  "offheap",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1947,12 +3380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clojure JSON and JSON SMILE (binary json format) encoding/decoding",
+                "homepage": "https://github.com/dakrone/cheshire",
                 "id": 1516467,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2026-07-25T16:35:25Z",
+                "open_issues": 52,
                 "owner": "dakrone",
                 "repo": "cheshire",
-                "stars": 1557
+                "stars": 1557,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1963,12 +3401,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JSON-Compatible Zero-Copy Serialization Format",
+                "homepage": "https://lite3.io",
                 "id": 1099814886,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-06T21:07:05Z",
+                "open_issues": 5,
                 "owner": "fastserial",
                 "repo": "lite3",
-                "stars": 806
+                "stars": 806,
+                "topics": [
+                  "binary",
+                  "c",
+                  "json",
+                  "schemaless",
+                  "serialization",
+                  "serialization-format",
+                  "serialization-library",
+                  "zero-copy"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1979,12 +3431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Binary serialization library for efficient network communication",
+                "homepage": null,
                 "id": 33741152,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-11T02:42:30Z",
+                "open_issues": 30,
                 "owner": "suzaku-io",
                 "repo": "boopickle",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -1995,12 +3452,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "(DEPRECATED) -- moved under `jackson-modules-base` ",
+                "homepage": null,
                 "id": 1340963,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-11-02T13:37:30Z",
+                "open_issues": 2,
                 "owner": "FasterXML",
                 "repo": "jackson-module-afterburner",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2011,12 +3473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for describing binary formats for Scala types",
+                "homepage": null,
                 "id": 486599,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2015-12-06T21:20:05Z",
+                "open_issues": 0,
                 "owner": "harrah",
                 "repo": "sbinary",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2034,12 +3501,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable datastore for metrics, events, and real-time analytics",
+                "homepage": "https://influxdata.com",
                 "id": 13124802,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:37:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:13:13Z",
+                "open_issues": 2157,
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31723
+                "stars": 31726,
+                "topics": [
+                  "database",
+                  "go",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "react",
+                  "rust",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2050,12 +3531,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+                "homepage": "https://www.tigerdata.com/",
                 "id": 84240850,
                 "language": "C",
-                "last_commit": "2026-08-27T17:15:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:46:50Z",
+                "open_issues": 400,
                 "owner": "timescale",
                 "repo": "timescaledb",
-                "stars": 23434
+                "stars": 23438,
+                "topics": [
+                  "analytics",
+                  "database",
+                  "financial-analysis",
+                  "historian",
+                  "iot",
+                  "postgres",
+                  "postgresql",
+                  "sql",
+                  "tigerdata",
+                  "time-series",
+                  "time-series-database",
+                  "timescaledb",
+                  "tsdb"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2066,12 +3566,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed PostgreSQL as an extension",
+                "homepage": "https://www.citusdata.com",
                 "id": 50874442,
                 "language": "C",
-                "last_commit": "2026-08-27T17:57:50Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T13:53:15Z",
+                "open_issues": 1063,
                 "owner": "citusdata",
                 "repo": "citus",
-                "stars": 12733
+                "stars": 12735,
+                "topics": [
+                  "citus",
+                  "citus-extension",
+                  "database",
+                  "database-cluster",
+                  "distributed-database",
+                  "multi-tenant",
+                  "postgres",
+                  "postgresql",
+                  "relational-database",
+                  "scale",
+                  "sharding",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2089,12 +3607,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+                "homepage": "https://goreplay.org",
                 "id": 10379607,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-27T15:26:22Z",
+                "open_issues": 341,
                 "owner": "probelabs",
                 "repo": "goreplay",
-                "stars": 19318
+                "stars": 19319,
+                "topics": [
+                  "devops",
+                  "go",
+                  "qa",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2105,12 +3634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",
+                "homepage": "https://benoittgt.github.io/vcr",
                 "id": 535266,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-23T06:33:13Z",
+                "open_issues": 87,
                 "owner": "vcr",
                 "repo": "vcr",
-                "stars": 6077
+                "stars": 6076,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2121,12 +3655,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight service virtualization/ API simulation / API mocking tool for developers and testers",
+                "homepage": "https://hoverfly.io",
                 "id": 47131865,
                 "language": "Go",
-                "last_commit": "2026-08-27T23:52:48Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:42:04Z",
+                "open_issues": 33,
                 "owner": "SpectoLabs",
                 "repo": "hoverfly",
-                "stars": 2509
+                "stars": 2509,
+                "topics": [
+                  "api-mock",
+                  "api-mocking",
+                  "api-simulation",
+                  "go",
+                  "golang",
+                  "hoverfly",
+                  "http",
+                  "https",
+                  "mitm",
+                  "mocking",
+                  "proxy",
+                  "rest-api",
+                  "service-virtualization",
+                  "stubbing",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2137,12 +3693,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦏  | Best in class Microservice automation testing. Test Driven Happiness",
+                "homepage": "https://restqa.io",
                 "id": 258732511,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-13T09:55:50Z",
+                "open_issues": 18,
                 "owner": "restqa",
                 "repo": "restqa",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "gherkin",
+                  "restqa",
+                  "test-automation",
+                  "testing-tools",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2153,12 +3720,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Service Virtualization Solution – a combined Service Stub and Transparent Proxy",
+                "homepage": null,
                 "id": 29603649,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-31T17:32:54Z",
+                "open_issues": 9,
                 "owner": "epam",
                 "repo": "Wilma",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "java",
+                  "mitm",
+                  "mitmproxy",
+                  "proxy",
+                  "service-stub",
+                  "service-virtualization",
+                  "stub"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2182,12 +3762,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.",
+                "homepage": "https://www.asyncapi.com",
                 "id": 74170071,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T17:58:42Z",
+                "open_issues": 44,
                 "owner": "asyncapi",
                 "repo": "spec",
-                "stars": 5291
+                "stars": 5291,
+                "topics": [
+                  "amqp",
+                  "asyncapi",
+                  "kafka",
+                  "mqtt",
+                  "reactive",
+                  "specification",
+                  "stomp",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2205,12 +3799,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Beautiful static documentation for your API",
+                "homepage": "https://slatedocs.github.io/slate",
                 "id": 12820537,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-01T05:54:12Z",
+                "open_issues": 50,
                 "owner": "slatedocs",
                 "repo": "slate",
-                "stars": 36037
+                "stars": 36037,
+                "topics": [
+                  "api",
+                  "api-documentation",
+                  "slate",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2221,12 +3825,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
+                "homepage": "https://redocly.github.io/redoc/",
                 "id": 45250726,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T14:24:51Z",
+                "open_issues": 449,
                 "owner": "Redocly",
                 "repo": "redoc",
-                "stars": 25889
+                "stars": 25891,
+                "topics": [
+                  "api-documentation",
+                  "documentation-generator",
+                  "documentation-tool",
+                  "hacktoberfest",
+                  "openapi",
+                  "openapi-specification",
+                  "openapi3",
+                  "openapi31",
+                  "reactjs",
+                  "redoc",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2237,12 +3858,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
+                "homepage": "https://scalar.com",
                 "id": 679280065,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:48:20Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:09:59Z",
+                "open_issues": 84,
                 "owner": "scalar",
                 "repo": "scalar",
-                "stars": 16008
+                "stars": 16007,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "docs",
+                  "http-client",
+                  "openapi",
+                  "openapi3",
+                  "reference",
+                  "rest-api",
+                  "swagger",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2266,12 +3903,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://identity.foundation/didcomm-messaging/spec/",
                 "id": 235160215,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T10:10:34Z",
+                "open_issues": 44,
                 "owner": "decentralized-identity",
                 "repo": "didcomm-messaging",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "wg-didcomm"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2289,12 +3933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.",
+                "homepage": "http://msgpack.org/",
                 "id": 569267,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-10T11:11:44Z",
+                "open_issues": 95,
                 "owner": "msgpack",
                 "repo": "msgpack",
-                "stars": 7494
+                "stars": 7495,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             },
@@ -2305,12 +3954,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A FIX standard for binary message encoding",
+                "homepage": null,
                 "id": 39647977,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-22T18:04:00Z",
+                "open_issues": 31,
                 "owner": "FIXTradingCommunity",
                 "repo": "fix-simple-binary-encoding",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "fixprotocol",
+                  "presentation-layer",
+                  "protocol",
+                  "sbe"
+                ]
               },
               "first_seen": "2026-08-28T06:55:07.947Z"
             }
@@ -2324,15 +3983,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:55:07.947Z",
+    "last_updated": "2026-08-29T04:08:06.340Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Microservice Architecture related principles and technologies.",
+      "homepage": null,
       "id": 34987697,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-20T15:52:41Z",
+      "open_issues": 8,
       "owner": "mfornos",
       "repo": "awesome-microservices",
-      "stars": 14497
+      "stars": 14498,
+      "topics": [
+        "awesome",
+        "cloud-computing",
+        "cloud-native",
+        "microservices",
+        "microservices-architecture"
+      ]
     },
     "original_repository_sha": "417c83dc4de7c8e0f2c147b36f12c5e6fbb549b8",
     "enhanced_repository": "enhansome/enhansome-microservices",
